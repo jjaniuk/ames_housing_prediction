@@ -34,8 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Background
 
-Detailed info located here: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
-
 This project looks at a housing dataset (2930 observations and 82 variables which includes 23 nominal, 23 ordinal, 14 discrete, and 20 continuous variables)
 
 The goal is to predict the price of a house given the large range of variables.
