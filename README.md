@@ -32,8 +32,6 @@ scikit-learn
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-# Ames Housing Prediction Summary
-
 ## Background
 
 Detailed info located here: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
