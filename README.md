@@ -1,4 +1,4 @@
-# sentiment_prediction
+# Sentiment Prediction - Amazon Reviews
 
 The project takes a look into the review data of Cellphones and Accessories and tries to predict whether a customer leaves a positive review (5 or 4 star), or a negative review (1 or 2 star).
 
