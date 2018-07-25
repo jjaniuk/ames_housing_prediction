@@ -1,13 +1,14 @@
-# Sentiment Prediction - Amazon Reviews
+# Ames Housing Prediction
 
-The project takes a look into the review data of Cellphones and Accessories and tries to predict whether a customer leaves a positive review (5 or 4 star), or a negative review (1 or 2 star).
-
+The project looks at a dataset containing information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010 and tries to predict with minimal error the values based on the features provided.
 
 ## Getting Started
 
-The data can be found here: http://jmcauley.ucsd.edu/data/amazon/
+Detailed info located here: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
 
-I have used the Cell Phones and Accessories dataset, 5-core (194,439 reviews)
+[The data can be found here](https://github.com/jjaniuk/ames_housing_prediction/blob/master/AmesHousing.csv)
+
+[Detailed info on the dataset](https://github.com/jjaniuk/ames_housing_prediction/blob/master/AmesHousing.txt)
 
 ### Prerequisites
 
