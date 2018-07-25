@@ -18,13 +18,13 @@ We remove any of the datapoints with grade living area of 4000 square feet.
 
 ## Missing data / Handling missing data
 
-Now we look at the missing data. From a quick check we can see that there is missing data in 27 variables. Rather than removing these variables, we will try to either fill these based on the [detailed file about the dataset](https://github.com/jjaniuk/ames_housing_prediction/blob/master/AmesHousing.txt), or use [imputation](https://en.wikipedia.org/wiki/Imputation_(statistics)).
+We need to look at the missing data. From a quick check we can see that there is missing data in 27 variables. Rather than removing these variables, we will try to either fill these based on the [detailed file about the dataset](https://github.com/jjaniuk/ames_housing_prediction/blob/master/AmesHousing.txt), or use [imputation](https://en.wikipedia.org/wiki/Imputation_(statistics)).
 
 Taking some time looking in the detailed dataset file, we can see that we can fill the missing values as most of them as missing due to values like "none", "missing".
 
 ## Feature Engineering
 
-Before we do any modeling, we need to look at feature engineering. Better features means flexibility, simpler models, and better results. This will allow us to spend less time or no time on tweaking our machine learning models.
+Before we do any modeling, we need to look at feature engineering. Better features means more flexibility, simpler models, and better results. This will allow us to spend less time or no time on tweaking our machine learning model coefficients and also will allow us to avoid overfitting to a greater degree.
 
 We focus on 3 differnt types of feature engineering:
 1. Simplifying exsiting features, like months into seasons, overall quality rating 1-10 to simplified overall quality of 1-3 etc.
